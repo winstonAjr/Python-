@@ -1,6 +1,5 @@
 # Python-
- Ecercícios feitos na matéria de "Fundamentos da Computação".
- Onde fui apresentado ao Python como primeira linguagem de 
+ Ecercícios feitos na matéria de "Fundamentos da Computação". Onde fui apresentado ao Python como primeira linguagem de 
  
  Programação, bem fácil e intuitiva de usar!
 
