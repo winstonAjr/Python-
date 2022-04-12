@@ -1,0 +1,1 @@
+Os competidores devem realizar cinco manobras e duas corridas de 45 segundos. Cinco juízes darão notas de 0 a 10 pontos, sendo que a mais alta e a mais baixa para cada corrida ou manobra serão descartadas. O resultado é a média das cinco restantes. Faça um programa que solicite as 7 notas e calcule a média conforme descrito. 
